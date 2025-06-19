@@ -27,3 +27,9 @@ LearnLoop is a MERN stack web application that enables users to exchange skills 
 - Node.js (v16+ recommended)
 - MongoDB database
 - npm or yarn package manager
+
+##screenshots
+
+![Screenshot 2025-06-19 112207](https://github.com/user-attachments/assets/df02c02a-f7a5-47ba-a6ea-170ca4cb25bd)
+![Screenshot 2025-06-19 112137](https://github.com/user-attachments/assets/cf673ac3-7ff3-4dbb-a1ff-da61b26b6cd8)
+![Screenshot 2025-06-19 112110](https://github.com/user-attachments/assets/22ddc693-c0ac-41a9-b06e-cef9f9303c2b)
